@@ -1,2 +1,22 @@
 # uber-trip-analysis
-A Power BI dashboard that analyzes Uber trip data to uncover patterns in trip volume, peak times, and geographic distribution. This report offers key insights for understanding urban mobility trends and optimizing ride services.
+# 📊 Uber Trip Analysis
+
+This Power BI report provides an analysis of Uber trip data, helping to uncover patterns, trends, and insights from ride activity.
+
+---
+
+## 🧾 File
+
+- **`uber trip analysis.pbix`**: Power BI report file containing all visuals, data transformations, and dashboards.
+
+---
+
+## 📈 Features
+
+- Trip distribution by date and time  
+- Pickup and drop-off heatmaps  
+- Peak hours and days analysis  
+- Summary KPIs and filters for interactive insights
+
+---
+
